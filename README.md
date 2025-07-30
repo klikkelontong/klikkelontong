@@ -1,4 +1,4 @@
-![Header](/klikkelontong/header_kk.png)
+![Header](/img/header_kk.png)
 
 ## 🛒 Klik Kelontong
 **Empowering Indonesian MSMEs through Digital Transformation.**  
